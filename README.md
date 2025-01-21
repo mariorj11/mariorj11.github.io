@@ -1,27 +1,29 @@
-# 👨🏻‍💻 Porfolio para programadores y desarrolladores
+# Mi Portfolio
 
-<div align="center">
-<a href="https://porfolio.dev/">
-<img src="./public/porfolio.webp">
-</a>
-<p></p>
-</div>
+Este es mi portfolio personal desarrollado con **Astro**, un generador de sitios estáticos que me permite crear un sitio rápido y optimizado. En este proyecto, he demostrado mis habilidades y experiencias, incluyendo proyectos, habilidades técnicas y más. El objetivo es proporcionar una plataforma clara y atractiva para que los empleadores y colegas puedan conocer más sobre mí y mis capacidades.
 
-<div align="center">
+## Tecnologías Utilizadas
 
-![Astro Badge](https://img.shields.io/badge/Astro-FF3E00?logo=astro&logoColor=fff&style=flat)
-![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat)
-![GitHub stars](https://img.shields.io/github/stars/midudev/porfolio.dev)
-![GitHub PRs](https://img.shields.io/github/issues-pr/midudev/porfolio.dev)
-![GitHub forks](https://img.shields.io/github/forks/midudev/porfolio.dev)
-![GitHub issues](https://img.shields.io/github/issues/midudev/porfolio.dev)
+- **Astro**: Un generador de sitios estáticos de alto rendimiento, que combina las mejores características de frameworks modernos.
+- **HTML5**: Estructura y contenido semántico.
+- **CSS3**: Diseño y estilo del sitio web.
+- **JavaScript**: Interactividad en la página.
+- **Markdown**: Para los contenidos del blog y proyectos.
+- **Vercel / GitHub Pages**: Para el despliegue y hosting del sitio.
 
-</div>
+## Características
 
-## 🫂 Contribuidores
+- **Diseño responsivo**: El portfolio se adapta a todos los dispositivos, desde móviles hasta pantallas grandes.
+- **Interactividad**: Uso de JavaScript para agregar interactividad y animaciones suaves.
+- **Optimización de rendimiento**: Gracias a la construcción estática de Astro, el sitio se carga muy rápido.
+- **Fácil navegación**: Sección clara de proyectos, habilidades, contacto y más.
+- **Accesibilidad**: El diseño está pensado para ser accesible, siguiendo las mejores prácticas.
 
-<a href="https://github.com/midudev/porfolio.dev/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=midudev/porfolio.dev" />
-</a>
+## Instalación
 
-<p></p>
+Si deseas ejecutar el proyecto en tu máquina local, sigue estos pasos:
+
+### 1. Clonar el repositorio
+
+```bash
+git clone https://github.com/<TU-USUARIO>/<TU-REPOSITORIO>.git
