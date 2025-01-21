@@ -2,8 +2,11 @@
 import GitHub from "./icons/GitHub.astro"
 import NextJS from "./icons/NextJS.astro"
 import Tailwind from "./icons/Tailwind.astro"
+import Java from "./icons/Java.astro"
+import Spring from "./icons/Spring.astro"
 import Link from "./icons/Link.astro"
 import LinkButton from "./LinkButton.astro"
+import Mysql from "./icons/Mysql.astro"
 
 const TAGS = {
   NEXT: {
@@ -16,25 +19,34 @@ const TAGS = {
     class: "bg-[#003159] text-white",
     icon: Tailwind,
   },
+  JAVA: {
+    name: "Java",
+    class: "bg-orange-300 text-black",
+    icon: Java,
+  },
+  SPRING: {
+    name: "Spring Boot",
+    class: "bg-green-300 text-black",
+    icon: Spring,
+
+  },
+  MYSQL: {
+    name: "MySQL",
+    class: "bg-blue-900 text-white",
+    icon: Mysql,
+  },
 }
 const PROJECTS = [
+  
   {
-    title: "SVGL - A beautiful library with SVG logos",
-    description:
-      "Biblioteca de logos SVG de las marcas más populares. +10k visitas al mes. +2K svgs descargados. Creado desde cero con Next.js, React y Tailwind CSS.",
-    link: "https://svgl.vercel.app/",
-    github: "https://github.com/pheralb/svgl",
-    image: "/projects/svgl.webp",
-    tags: [TAGS.NEXT, TAGS.TAILWIND],
-  },
-  {
-    title: "AdventJS - Retos de programación con JavaScript y TypeScript",
-    description:
-      "Plataforma gratuita con retos de programación. Más de 1 millón de visitas en un mes. +50K retos completados. Creada desde cero con Next.js, React y Tailwind CSS.",
-    link: "https://adventjs.dev",
-    image: "/projects/adventjs.webp",
-    tags: [TAGS.NEXT, TAGS.TAILWIND],
-  },
+    title: "API de Gestión de Empleados",
+    description: "Proyecto Back-end que permite realizar operaciones CRUD (Crear, Leer, Actualizar y Eliminar) sobre los datos de los empleados. Creada con Java, Spring Boot y los datos residen en la base de datos de MySQL.",
+    image: "/projects/proy-back.webp",
+    github: "https://github.com/mariorj11/Spring-Boot-Project",
+    tags: [TAGS.JAVA, TAGS.SPRING, TAGS.MYSQL],
+    link: ""
+  }
+
 ]
 ---
 
