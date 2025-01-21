@@ -1,6 +1,6 @@
 # Mi Portfolio
 
-Este es mi portfolio personal desarrollado con **Astro**, un generador de sitios estáticos que me permite crear un sitio rápido y optimizado. En este proyecto, he demostrado mis habilidades y experiencias, incluyendo proyectos, habilidades técnicas y más. El objetivo es proporcionar una plataforma clara y atractiva para que los empleadores y colegas puedan conocer más sobre mí y mis capacidades.
+Este es mi portfolio personal inspirado del canal de Midudev desarrollado con **Astro**, un generador de sitios estáticos que me permite crear un sitio rápido y optimizado. En este proyecto, he demostrado mis habilidades y experiencias, incluyendo proyectos, habilidades técnicas y más. El objetivo es proporcionar una plataforma clara y atractiva para que los empleadores y colegas puedan conocer más sobre mí y mis capacidades.
 
 ## Tecnologías Utilizadas
 
